@@ -1,0 +1,9 @@
+{
+  "happy": "pop",
+  "sad": "acoustic",
+  "angry": "rock",
+  "neutral": "chill",
+  "fear": "ambient",
+  "surprise": "electronic",
+  "disgust": "metal"
+}
